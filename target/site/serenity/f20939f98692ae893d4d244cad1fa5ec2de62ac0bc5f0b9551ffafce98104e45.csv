@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User CRUD test","This will create new user","SUCCESS","2023-06-05T15:41:12.516+01:00[Europe/London]","0.0","9.07"
+"User CRUD test","This will get all user","SUCCESS","2023-06-05T15:41:21.996+01:00[Europe/London]","0.0","1.16"
+"User CRUD test","Verify if the user was added to the application","SUCCESS","2023-06-05T15:41:23.174+01:00[Europe/London]","0.0","2.07"
+"User CRUD test","Update the user information and verify the updated information","SUCCESS","2023-06-05T15:41:25.246+01:00[Europe/London]","0.0","2.71"
+"User CRUD test","Delete the user and verify if the user is deleted","SUCCESS","2023-06-05T15:41:27.954+01:00[Europe/London]","0.0","2.74"
